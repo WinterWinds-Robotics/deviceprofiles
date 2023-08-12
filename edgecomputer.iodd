@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IODeviceDescription xmlns="http://www.io-link.com/XMLIODD/1.1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.io-link.com/XMLIODD/1.1.0 http://www.io-link.com/XMLIODD/1.1.0/XMLIODD_110.xsd">
+  <Identification>
+    <VendorID>YourVendorID</VendorID>
+    <DeviceID>YourDeviceID</DeviceID>
+    <Version>1.0</Version>
+    <DeviceFamily>Edge Computers</DeviceFamily>
+    <Name>Edge Computer Management</Name>
+    <Description>A description of the edge computer management device.</Description>
+  </Identification>
+  <IOSpecification>
+    <ProcessDataInputs>
+      <!-- Define your process data inputs here -->
+    </ProcessDataInputs>
+    <ProcessDataOutputs>
+      <!-- Define your process data outputs here -->
+    </ProcessDataOutputs>
+    <ParameterData>
+      <!-- Define your parameters here -->
+    </ParameterData>
+  </IOSpecification>
+</IODeviceDescription>
